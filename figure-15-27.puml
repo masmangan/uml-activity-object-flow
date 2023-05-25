@@ -1,0 +1,6 @@
+' Example from UML Specification
+@startuml
+footer Source: UML 2.5.1 Specification
+start
+caption Figure 15.27 InitialNode notation
+@enduml
