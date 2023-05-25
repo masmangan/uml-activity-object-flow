@@ -1,0 +1,11 @@
+@startuml
+start
+->
+(A)
+detach
+(A)
+->
+stop
+caption Figure 15.6 ActivityEdge connector notation
+footer Source: UML 2.5.1 Specification
+@enduml
