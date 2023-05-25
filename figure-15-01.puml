@@ -1,0 +1,56 @@
+@startuml
+
+class Activity {
++ isReadOnly : Boolean = false
++ isSingleExecution : Boolean = false
+}
+
+class ObjectFlow {
++ isMulticast : Boolean = false
++ isMultireceive : Boolean = false
+}
+
+abstract class Behavior {
+}
+
+abstract class RedefinableElement{
+}
+
+abstract class ConnectableElement{
+}
+
+abstract class MultiplicityElement{
+}
+
+Behavior <|-- Activity
+RedefinableElement <|-- ActivityNode
+RedefinableElement <|-- ActivityEdge
+ConnectableElement <|-- Variable
+MultiplicityElement <|-- Variable
+
+
+Activity "0..1"*---"*" Variable
+
+Activity "0..1"*---"*" ActivityNode
+Activity "0..1"*---"*" ActivityEdge
+
+ValueSpecification "0..1"---*"0..1" ActivityEdge
+ValueSpecification "0..1"---*"0..1" ActivityEdge
+
+ActivityEdge <|-- ObjectFlow
+ActivityEdge <|-- ControlFlow
+
+ActivityNode "1"---*"*" ActivityEdge
+ActivityNode "1"---*"*" ActivityEdge
+
+ActivityNode "*"---*"*" ActivityNode
+ActivityEdge "*"---*"*" ActivityEdge
+
+
+Behavior "0..1"--"*" ObjectFlow
+Behavior "0..1"--"*" ObjectFlow
+
+caption Figure 15.1 Activities
+
+footer Source: UML 2.5.1 Specification
+@enduml
