@@ -1,0 +1,19 @@
+@startuml
+start
+:Receive Order;
+if () then (order accepted)
+:Fill Order;
+fork
+:Ship Order;
+fork again
+:Send Invoice;
+:Make Payment;
+:Accept Payment;
+endfork
+else (order rejected)
+endif
+:Close Order;
+stop
+caption Figure 15.12 Activity node example (where the arrowed lines are the only non-activity node symbols)
+footer Source: UML 2.5.1 Specification
+@enduml
