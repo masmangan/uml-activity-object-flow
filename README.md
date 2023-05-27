@@ -15,6 +15,6 @@ A study on Object Flow representation using PlantUML
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-12.puml)
 
-![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-26.puml)
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-27.puml)
 
-![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-29.puml)
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-28.puml)
