@@ -1,9 +1,15 @@
 @startuml
 :;
+kill
+
 if ()
+endif
+
 fork
 endfork
+
 start
+
 stop
 end
 caption Figure 15.4 ActivityNode notation
