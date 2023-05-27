@@ -1,0 +1,19 @@
+@startuml
+:;
+
+:;
+kill
+:;
+->name;
+:;
+kill
+:;
+->{weight=n};
+:;
+kill
+:;
+->{weight=*};
+:;
+caption Figure 15.5 ActivityEdge notation
+footer Source: UML 2.5.1 Specification
+@enduml
