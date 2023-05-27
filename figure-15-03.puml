@@ -1,0 +1,10 @@
+@startuml
+class "Activity Name" <<activity>> {
+attribute : type
+attribute : type
+operation(parameters)
+operation(parameters)
+}
+caption Figure 15.3 Activity class notation
+footer Source: UML 2.5.1 Specification
+@enduml
