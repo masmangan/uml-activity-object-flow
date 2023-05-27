@@ -1,6 +1,7 @@
 # uml-activity-object-flow
 A study on Object Flow representation using PlantUML
 
+Figures on Chapter 15 Activities from UML Specfification are reproduced using PlantUML.
 
 # 15 Activities
 ## 15.1 Summary
