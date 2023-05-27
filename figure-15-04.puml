@@ -1,0 +1,11 @@
+@startuml
+:;
+if ()
+fork
+endfork
+start
+stop
+end
+caption Figure 15.4 ActivityNode notation
+footer Source: UML 2.5.1 Specification
+@enduml
