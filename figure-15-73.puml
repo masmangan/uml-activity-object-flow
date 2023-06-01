@@ -1,0 +1,22 @@
+@startuml
+start
+:Receive Order;
+if () then (order accepted)
+:Fill Order;
+fork
+:Ship Order;
+fork again
+:Send Invoice;
+:Make Payment;
+:Accept Payment;
+endfork
+else (order rejected)
+endif
+:Close Order;
+stop
+:Order cancel request;
+:Cancel Order;
+stop
+caption Figure 15.73 InterruptableActivityRegion example
+footer Source: UML 2.5.1 Specification
+@enduml
