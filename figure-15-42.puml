@@ -1,5 +1,4 @@
 @startuml
-start
 :Close Order;
 stop
 caption Figure 15.42 ActivityFinalNode example
