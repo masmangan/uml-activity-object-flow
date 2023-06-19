@@ -1,0 +1,7 @@
+@startuml
+start
+:Close Order;
+stop
+caption Figure 15.42 ActivityFinalNode example
+footer Source: UML 2.5.1 Specification
+@enduml
