@@ -1,0 +1,10 @@
+@startuml
+:Fill Order;
+fork
+:Ship Order;
+fork again
+:Send Invoice;
+end fork
+caption Figure 15.36 ForkNode example
+footer Source: UML 2.5.1 Specification
+@enduml

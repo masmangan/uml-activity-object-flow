@@ -1,0 +1,10 @@
+@startuml
+start
+
+while (there is components to be build?)
+  :Build Components;
+  :Install Component;
+endwhile (no)
+
+end
+@enduml
