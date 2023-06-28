@@ -1,0 +1,8 @@
+@startuml
+:Cricket Player]
+-> {weight=11};
+:Form Cricket Team;
+
+caption Figure 15.21 ActivityEdge weight examples
+footer Source: UML 2.5.1 Specification
+@enduml

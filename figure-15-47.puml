@@ -1,0 +1,20 @@
+@startuml
+:Pull Order Item from Stock;
+if () then ([order accepted])
+:Fill Order;
+fork
+:Send Invoice;
+:Invoice]
+:Make Payment;
+:Accept Payment;
+fork again
+:Ship Order;
+end fork
+else ([order rejected])
+end if
+:Close Order;
+stop
+
+caption Figure 15.47 ControlNode examples (with accompanying actions and control flows)
+footer Source: UML 2.5.1 Specification
+@enduml

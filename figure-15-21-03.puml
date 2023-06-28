@@ -1,0 +1,20 @@
+@startuml
+split
+-[hidden]->
+:Bid
+arrives<
+:Bids for
+Proposal;
+split again
+-[hidden]->
+:Ready to
+award bid<
+endsplit
+fork
+:Award
+Bid;
+endfork
+
+caption Figure 15.21 ActivityEdge weight examples
+footer Source: UML 2.5.1 Specification
+@enduml

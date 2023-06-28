@@ -1,0 +1,15 @@
+@startuml
+split
+-[hidden]->
+:Ship Order;
+split again
+-[hidden]->
+:Ship Order;
+end split
+fork
+:Close Order;
+end fork
+
+caption Figure 15.37 JoinNode example
+footer Source: UML 2.5.1 Specification
+@enduml
