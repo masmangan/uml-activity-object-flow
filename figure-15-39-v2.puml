@@ -1,0 +1,13 @@
+@startuml
+object buyItem
+object makeItem
+diamond dia
+object shipItem
+
+buyItem--> dia
+makeItem--> dia
+dia --> shipItem
+
+caption Figure 15.39 MergeNode example
+footer Source: UML 2.5.1 Specification
+@enduml
