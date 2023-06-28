@@ -8,6 +8,6 @@ buyItem--> dia
 makeItem--> dia
 dia --> shipItem
 
-caption Figure 15.39 MergeNode example
+caption Figure 15.39.v2 MergeNode example
 footer Source: UML 2.5.1 Specification
 @enduml
