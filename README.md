@@ -15,6 +15,12 @@ Figures on Chapter 15 Activities from UML Specfification are reproduced using Pl
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-05.puml)
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-06.puml)
 
+### 15.2.5 Examples
+
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/marcogoedert/uml-activity-object-flow/main/figure-15-19.puml)
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/marcogoedert/uml-activity-object-flow/main/figure-15-21-01.puml)
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/marcogoedert/uml-activity-object-flow/main/figure-15-21-02.puml)
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/marcogoedert/uml-activity-object-flow/main/figure-15-21-03.puml)
 
 ## 15.3 Control Nodes
 
@@ -26,3 +32,20 @@ Figures on Chapter 15 Activities from UML Specfification are reproduced using Pl
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-42.puml)
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-73.puml)
+
+### 15.3.5 Examples
+
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/marcogoedert/uml-activity-object-flow/main/figure-15-37.puml)
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/marcogoedert/uml-activity-object-flow/main/figure-15-47.puml)
+
+## 15.4 Object Nodes
+### 15.4.4 Notation
+
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/marcogoedert/uml-activity-object-flow/main/figure-15-54.puml)
+
+## 15.6 Activity Groups
+### 15.6.5 Examples
+
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/marcogoedert/uml-activity-object-flow/main/figure-15-71.puml)
+
+
