@@ -1,0 +1,14 @@
+@startuml
+label l_build
+:Build Component;
+fork
+:Install Component;
+fork again
+if() then([no more components to be built])
+  end
+else([more components to be built])
+goto l_build
+end
+caption Figure 15.45 FlowFinalNode example
+footer Source: UML 2.5.1 Specification
+@enduml

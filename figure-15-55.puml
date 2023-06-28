@@ -1,0 +1,9 @@
+@startuml
+:<<dataStore>>
+name
+[state] 
+]
+
+caption Figure Figure 15.55 DataStoreNode notation
+footer Source: UML 2.5.1 Specification
+@enduml
