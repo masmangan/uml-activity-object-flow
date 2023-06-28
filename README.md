@@ -19,10 +19,12 @@ Figures on Chapter 15 Activities from UML Specfification are reproduced using Pl
 ## 15.3 Control Nodes
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-12.puml)
-
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fernandoelger/uml-activity-object-flow/main/figure-15-17.puml)
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fernandoelger/uml-activity-object-flow/main/figure-15-20.puml)
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-27.puml)
-
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-28.puml)
-
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fernandoelger/uml-activity-object-flow/main/figure-15-39-v1.puml)
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fernandoelger/uml-activity-object-flow/main/figure-15-39-v2.puml)
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fernandoelger/uml-activity-object-flow/main/figure-15-40.puml)
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-42.puml)
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-73.puml)
