@@ -1,0 +1,18 @@
+@startuml
+
+:Register Problem;
+fork
+if () then (priority=1)
+:Evaluate Impact;
+:Revise Plan;
+else (else)
+endif
+fork again
+:Fix Problem;
+:Test Fix;
+endfork
+:Release Fix;
+
+caption Figure 15.20 Equivalent model
+footer Source: UML 2.5.1 Specification
+@enduml
