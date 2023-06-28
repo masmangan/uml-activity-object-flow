@@ -1,0 +1,15 @@
+@startuml
+split
+   -[hidden]->
+   :Buy Item;
+split again
+   -[hidden]->
+   :Make Item;
+end split
+if () then
+endif
+:Ship Item;
+
+caption Figure 15.39 MergeNode example
+footer Source: UML 2.5.1 Specification
+@enduml
