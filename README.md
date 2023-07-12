@@ -59,7 +59,6 @@ Figure 15.18 still incomplete.
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-20.puml)
 
-
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-21-01.puml)
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-21-02.puml)
@@ -184,12 +183,12 @@ Figure 15.60 still incomplete.
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-61.puml)
 
-### 15.5.5 Examples
-
 
 Figure 15.62 still incomplete.
 
 Figure 15.63 still incomplete.
+
+### 15.5.5 Examples
 
 Figure 15.64 still incomplete.
 
@@ -199,7 +198,6 @@ Figure 15.64 still incomplete.
 ### 15.6.1 Summary
 
 ### 15.6.2 Abstract Syntax
-
 
 Figure 15.65 still incomplete.
 
