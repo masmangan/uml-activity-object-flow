@@ -18,9 +18,13 @@ Figures on Chapter 15 Activities from UML Specfification are reproduced using Pl
 
 ### 15.2.4 Notation
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-02.puml)
+
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-03.puml)
+
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-04.puml)
+
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-05.puml)
+
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-06.puml)
 
 Figure 15.7 still incomplete.
@@ -57,7 +61,9 @@ Figure 15.18 still incomplete.
 
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-21-01.puml)
+
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-21-02.puml)
+
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-21-03.puml)
 
 Figure 15.22 still incomplete.
@@ -79,6 +85,7 @@ Figure 15.26 still incomplete.
 ### 15.3.4 Notation
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-27.puml)
+
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-28.puml)
 
 Figure 15.29 still incomplete.
@@ -98,14 +105,15 @@ Figure 15.34 still incomplete.
 Figure 15.35 still incomplete.
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-36.puml)
-![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-36.puml)
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-37.puml)
 
 Figure 15.38 still incomplete.
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-39-v1.puml)
+
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-39-v2.puml)
+
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-40.puml)
 
 Figure 15.41 still incomplete.
@@ -137,7 +145,15 @@ Figure 15.48 still incomplete.
 
 ### 15.4.4 Notation
 
-Figures 15.49 to 15.53 still incomplete.
+Figure 15.49 still incomplete.
+
+Figure 15.50 still incomplete.
+
+Figure 15.51 still incomplete.
+
+Figure 15.52 still incomplete.
+
+Figure 15.53 still incomplete.
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-54.puml)
 
@@ -145,7 +161,13 @@ Figures 15.49 to 15.53 still incomplete.
 
 ### 15.4.5 Examples
 
-Figures 15.56 to 15.59 still incomplete.
+Figure 15.56 still incomplete.
+
+Figure 15.57 still incomplete.
+
+Figure 15.58 still incomplete.
+
+Figure 15.59 still incomplete.
 
 ## 15.5 Executable Nodes
 
@@ -197,7 +219,6 @@ Figure 15.70 still incomplete.
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-71.puml)
 
 Figure 15.72 still incomplete.
-
 
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-73.puml)
 
