@@ -1,0 +1,6 @@
+@startuml
+:name;
+
+caption Figure 15.61 ExecutableNode notation
+footer Source: UML 2.5.1 Specification
+@enduml

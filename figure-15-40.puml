@@ -1,0 +1,17 @@
+@startuml
+start
+
+:Receive Order;
+
+if () then (order accepted)
+:Fill Order;
+stop
+
+else (order rejected)
+:Close Order;
+stop
+endif
+
+caption Figure 15.40 DecisionNode example
+footer Source: UML 2.5.1 Specification
+@enduml

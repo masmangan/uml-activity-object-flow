@@ -1,0 +1,20 @@
+@startuml
+repeat :Build Component;
+fork
+:Install Component;
+  if() then([no more components to be installed])
+    :Deliver Application;
+    stop
+  else([more components to be installed])
+    end
+  endif
+fork again
+if() then([no more components to be built])
+  end
+else([more components to be built])
+endif
+endfork
+
+caption Figure 15.46 FlowFinalNode and ActivityFinalNode example
+footer Source: UML 2.5.1 Specification
+@enduml

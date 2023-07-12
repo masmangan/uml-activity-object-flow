@@ -1,0 +1,17 @@
+@startuml
+
+skinparam componentStyle rectangle
+
+(Accept Order)->[ Order ]
+[ Order ]->(Fill Order)
+
+component  {
+
+[Order]--[Line Item]
+[Line Item]-[Trim & Finish]
+
+}
+
+caption Figure 15.17 Linking a class diagram to an object node
+footer Source: UML 2.5.1 Specification
+@enduml

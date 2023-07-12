@@ -1,0 +1,27 @@
+@startuml
+start
+fork
+  :No action timer;
+  :Notify no action;
+  :Cancel transactional;
+  :Cancel Service;
+fork again
+  if() then([amount >= 200])
+    :Submit for Approve;
+    if() then([decision = accept])
+    :Service Approval;
+    else ([decision = reject])
+    :Reject;
+    :Notify Reject;
+    endif
+  else([amount < 200])
+    :Auto Approve;
+  endif
+end fork
+stop
+
+
+ 
+caption Figure 15.43 ActivityFinalNode example
+footer Source: UML 2.5.1 Specification
+@enduml
