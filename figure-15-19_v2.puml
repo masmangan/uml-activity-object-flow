@@ -1,0 +1,19 @@
+@startuml
+:Register Problem;
+fork
+:Fix Problem;
+:Test Fix;
+fork again
+switch ()
+case ([priority=1])
+:Evaluate Impact;
+:Revise Plan;
+case ([else])
+(A)
+endswitch
+endfork
+:Release Fix;
+
+caption Figure 15.19 ActivityEdge connector example
+footer Source: UML 2.5.1 Specification
+@enduml

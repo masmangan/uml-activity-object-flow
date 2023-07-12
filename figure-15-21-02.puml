@@ -1,0 +1,11 @@
+@startuml
+:Task
+(completed)]
+-> {weight=no_of_job_tasks};
+:Send
+Job
+Invoice;
+
+caption Figure 15.21 ActivityEdge weight examples
+footer Source: UML 2.5.1 Specification
+@enduml

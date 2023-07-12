@@ -1,0 +1,44 @@
+@startuml
+start
+
+:(Order Department)
+Receive Order;
+
+if () then ([order accepted])
+
+:(Order Department)
+Fill Order;
+
+fork
+
+:(Accounting Department)
+Send Invoice;
+
+:Invoice]
+
+:<<external>>
+(Customer)
+Make Payment;
+
+:(Accounting Department)
+Accept Payment;
+
+fork again
+
+:(Order Department)
+Ship Order;
+
+end fork
+
+else ()
+
+end if
+
+:(Order Department)
+Close Order;
+
+stop
+
+caption Figure 15.71 ActivityPartitions using annotation
+footer Source: UML 2.5.1 Specification
+@enduml

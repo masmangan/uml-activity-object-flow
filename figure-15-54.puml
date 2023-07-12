@@ -1,0 +1,8 @@
+@startuml
+:<<centralBuffer>>
+
+]
+
+caption Figure 15.54 Optional CentralBufferNode notation
+footer Source: UML 2.5.1 Specification
+@enduml
