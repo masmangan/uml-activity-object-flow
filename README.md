@@ -5,9 +5,17 @@ Figures on Chapter 15 Activities from UML Specfification are reproduced using Pl
 
 # 15 Activities
 ## 15.1 Summary
-![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-01.puml)
+
 
 ## 15.2 Activities
+
+### 15.2.1 Summary
+
+### 15.2.2 Abstract Syntax
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-01.puml)
+
+### 15.2.3 Semantics
+
 ### 15.2.4 Notation
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-02.puml)
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-03.puml)
@@ -15,18 +23,33 @@ Figures on Chapter 15 Activities from UML Specfification are reproduced using Pl
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-05.puml)
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-06.puml)
 
+Figures 15.7 to 15.11 still incomplete.
+
 ### 15.2.5 Examples
 
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-12.puml)
+
+Figures 15.13 to 15.18 still incomplete.
+
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fernandoelger/uml-activity-object-flow/main/figure-15-17.puml)
+
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/marcogoedert/uml-activity-object-flow/main/figure-15-19.puml)
+
+![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fernandoelger/uml-activity-object-flow/main/figure-15-20.puml)
+
+
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/marcogoedert/uml-activity-object-flow/main/figure-15-21-01.puml)
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/marcogoedert/uml-activity-object-flow/main/figure-15-21-02.puml)
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/marcogoedert/uml-activity-object-flow/main/figure-15-21-03.puml)
 
 ## 15.3 Control Nodes
+### 15.3.1 Summary
+### 15.3.2 Abstract Syntax
+Figures 15.26 still incomplete.
 
-![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-12.puml)
-![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fernandoelger/uml-activity-object-flow/main/figure-15-17.puml)
-![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fernandoelger/uml-activity-object-flow/main/figure-15-20.puml)
+### 15.3.3 Semantics
+
+
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-27.puml)
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/masmangan/uml-activity-object-flow/main/figure-15-28.puml)
 ![1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fernandoelger/uml-activity-object-flow/main/figure-15-39-v1.puml)
