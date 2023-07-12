@@ -7,6 +7,7 @@ fork
 :Ship Order;
 fork again
 :Send Invoice;
+:Invoice]
 :Make Payment;
 :Accept Payment;
 endfork
