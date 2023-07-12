@@ -6,7 +6,6 @@ Figures on Chapter 15 Activities from UML Specfification are reproduced using Pl
 # 15 Activities
 ## 15.1 Summary
 
-
 ## 15.2 Activities
 
 ### 15.2.1 Summary
