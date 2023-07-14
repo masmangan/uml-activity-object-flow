@@ -15,7 +15,7 @@ else (order rejected)
 endif
 :Close Order;
 stop
-:Order cancel request;
+:Order cancel request<
 :Cancel Order;
 stop
 caption Figure 15.73 InterruptableActivityRegion example
